@@ -17,8 +17,7 @@
 	},
 	"dependencies":{
 		"q":"~1.0",
-		"joi":"~6.4",
-		"odin":"bhamon/node-odin.git#v0.1.1"
+		"joi":"~6.4"
 	},
 	"devDependencies":{
 		"gulp":"~3.8",
