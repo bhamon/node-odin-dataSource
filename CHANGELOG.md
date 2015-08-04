@@ -1,3 +1,7 @@
+### v0.1.4
+
+- Member [DataSource#_driver] renamed to [DataSource#driver] and publicly exposed.
+
 ### v0.1.3
 
 - Odin dependency removed (use submodules instead).
