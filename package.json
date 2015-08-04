@@ -1,6 +1,6 @@
 {
 	"name":"odin-dataSource",
-	"version":"0.1.4",
+	"version":"0.1.5",
 	"description":"Odin data source module",
 	"author":{
 		"name":"Cryo",

@@ -1,3 +1,7 @@
+### v0.1.5
+
+- Dependencies updated.
+
 ### v0.1.4
 
 - Member [DataSource#_driver] renamed to [DataSource#driver] and publicly exposed.
