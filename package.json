@@ -1,6 +1,6 @@
 {
 	"name":"odin-dataSource",
-	"version":"0.1.5",
+	"version":"0.2.0",
 	"description":"Odin data source module",
 	"author":{
 		"name":"Cryo",
@@ -13,10 +13,9 @@
 	},
 	"main":"lib/index.js",
 	"engines":{
-		"node":"~0.12"
+		"node":"~4.0"
 	},
 	"dependencies":{
-		"q":"~1.4",
 		"joi":"~6.6"
 	},
 	"devDependencies":{
